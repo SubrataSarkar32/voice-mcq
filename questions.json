@@ -1,0 +1,552 @@
+[
+  {
+    "id": 1,
+    "question": "What is the capital city of India?",
+    "options": [
+      "Mumbai",
+      "Chennai",
+      "New Delhi",
+      "Kolkata"
+    ],
+    "answer": "New Delhi"
+  },
+  {
+    "id": 2,
+    "question": "Which river is known as the “Ganga of the South”?",
+    "options": [
+      "Godavari",
+      "Krishna",
+      "Kaveri",
+      "Narmada"
+    ],
+    "answer": "Kaveri"
+  },
+  {
+    "id": 3,
+    "question": "Who was the first Prime Minister of India?",
+    "options": [
+      "Mahatma Gandhi",
+      "Jawaharlal Nehru",
+      "Sardar Patel",
+      "Rajendra Prasad"
+    ],
+    "answer": "Jawaharlal Nehru"
+  },
+  {
+    "id": 4,
+    "question": "Which is the national animal of India?",
+    "options": [
+      "Lion",
+      "Tiger",
+      "Elephant",
+      "Peacock"
+    ],
+    "answer": "Tiger"
+  },
+  {
+    "id": 5,
+    "question": "Which Indian state is famous for tea production?",
+    "options": [
+      "Punjab",
+      "Gujarat",
+      "Assam",
+      "Rajasthan"
+    ],
+    "answer": "Assam"
+  },
+  {
+    "id": 6,
+    "question": "Which monument is known as the symbol of love in India?",
+    "options": [
+      "Qutub Minar",
+      "Red Fort",
+      "India Gate",
+      "Taj Mahal"
+    ],
+    "answer": "Taj Mahal"
+  },
+  {
+    "id": 7,
+    "question": "Which is the largest state in India by area?",
+    "options": [
+      "Maharashtra",
+      "Rajasthan",
+      "Uttar Pradesh",
+      "Madhya Pradesh"
+    ],
+    "answer": "Rajasthan"
+  },
+  {
+    "id": 8,
+    "question": "Which festival is known as the Festival of Lights?",
+    "options": [
+      "Holi",
+      "Eid",
+      "Diwali",
+      "Pongal"
+    ],
+    "answer": "Diwali"
+  },
+  {
+    "id": 9,
+    "question": "Who wrote the Indian national anthem?",
+    "options": [
+      "Bankim Chandra Chatterjee",
+      "Rabindranath Tagore",
+      "Sarojini Naidu",
+      "Subhash Chandra Bose"
+    ],
+    "answer": "Rabindranath Tagore"
+  },
+  {
+    "id": 10,
+    "question": "Which is the national sport of India (commonly associated)?",
+    "options": [
+      "Cricket",
+      "Football",
+      "Kabaddi",
+      "Hockey"
+    ],
+    "answer": "Hockey"
+  },
+  {
+    "id": 11,
+    "question": "Which city is called the Silicon Valley of India?",
+    "options": [
+      "Hyderabad",
+      "Pune",
+      "Bengaluru",
+      "Chennai"
+    ],
+    "answer": "Bengaluru"
+  },
+  {
+    "id": 12,
+    "question": "How many states are there in India currently?",
+    "options": [
+      "26",
+      "27",
+      "28",
+      "29"
+    ],
+    "answer": "28"
+  },
+  {
+    "id": 13,
+    "question": "Which is the smallest state in India by area?",
+    "options": [
+      "Goa",
+      "Sikkim",
+      "Tripura",
+      "Manipur"
+    ],
+    "answer": "Goa"
+  },
+  {
+    "id": 14,
+    "question": "Which Indian scientist won the Nobel Prize in Physics in 1930?",
+    "options": [
+      "Homi Bhabha",
+      "C. V. Raman",
+      "Vikram Sarabhai",
+      "A. P. J. Abdul Kalam"
+    ],
+    "answer": "C. V. Raman"
+  },
+  {
+    "id": 15,
+    "question": "Which is the national flower of India?",
+    "options": [
+      "Rose",
+      "Lotus",
+      "Sunflower",
+      "Jasmine"
+    ],
+    "answer": "Lotus"
+  },
+  {
+    "id": 16,
+    "question": "Which Indian state has the longest coastline?",
+    "options": [
+      "Kerala",
+      "Tamil Nadu",
+      "Gujarat",
+      "Andhra Pradesh"
+    ],
+    "answer": "Gujarat"
+  },
+  {
+    "id": 17,
+    "question": "Who is known as the Father of the Indian Constitution?",
+    "options": [
+      "Mahatma Gandhi",
+      "B. R. Ambedkar",
+      "Rajendra Prasad",
+      "Vallabhbhai Patel"
+    ],
+    "answer": "B. R. Ambedkar"
+  },
+  {
+    "id": 18,
+    "question": "Which is the highest civilian award in India?",
+    "options": [
+      "Padma Shri",
+      "Padma Bhushan",
+      "Bharat Ratna",
+      "Param Vir Chakra"
+    ],
+    "answer": "Bharat Ratna"
+  },
+  {
+    "id": 19,
+    "question": "Which desert lies in India?",
+    "options": [
+      "Sahara Desert",
+      "Thar Desert",
+      "Gobi Desert",
+      "Kalahari Desert"
+    ],
+    "answer": "Thar Desert"
+  },
+  {
+    "id": 20,
+    "question": "Which is the national bird of India?",
+    "options": [
+      "Sparrow",
+      "Peacock",
+      "Eagle",
+      "Parrot"
+    ],
+    "answer": "Peacock"
+  },
+  {
+    "id": 21,
+    "question": "Which Indian city is known as the Pink City?",
+    "options": [
+      "Udaipur",
+      "Jaipur",
+      "Jodhpur",
+      "Bhopal"
+    ],
+    "answer": "Jaipur"
+  },
+  {
+    "id": 22,
+    "question": "What is the currency of India?",
+    "options": [
+      "Taka",
+      "Rupee",
+      "Peso",
+      "Dinar"
+    ],
+    "answer": "Rupee"
+  },
+  {
+    "id": 23,
+    "question": "Which freedom fighter gave the slogan “Give me blood and I will give you freedom”?",
+    "options": [
+      "Bhagat Singh",
+      "Subhash Chandra Bose",
+      "Mahatma Gandhi",
+      "Bal Gangadhar Tilak"
+    ],
+    "answer": "Subhash Chandra Bose"
+  },
+  {
+    "id": 24,
+    "question": "Which is the national aquatic animal of India?",
+    "options": [
+      "Shark",
+      "Crocodile",
+      "River Dolphin",
+      "Blue Whale"
+    ],
+    "answer": "River Dolphin"
+  },
+  {
+    "id": 25,
+    "question": "Which state is famous for Kathakali dance?",
+    "options": [
+      "Karnataka",
+      "Kerala",
+      "Odisha",
+      "Tamil Nadu"
+    ],
+    "answer": "Kerala"
+  },
+  {
+    "id": 26,
+    "question": "Which mountain range separates India from China?",
+    "options": [
+      "Alps",
+      "Himalayas",
+      "Andes",
+      "Aravallis"
+    ],
+    "answer": "Himalayas"
+  },
+  {
+    "id": 27,
+    "question": "Which Indian state is known as the “Land of Five Rivers”?",
+    "options": [
+      "Haryana",
+      "Punjab",
+      "Bihar",
+      "Uttar Pradesh"
+    ],
+    "answer": "Punjab"
+  },
+  {
+    "id": 28,
+    "question": "Who was the first President of India?",
+    "options": [
+      "Zakir Hussain",
+      "Rajendra Prasad",
+      "Abdul Kalam",
+      "Radhakrishnan"
+    ],
+    "answer": "Rajendra Prasad"
+  },
+  {
+    "id": 29,
+    "question": "Which Indian festival is celebrated with colors?",
+    "options": [
+      "Holi",
+      "Diwali",
+      "Navratri",
+      "Raksha Bandhan"
+    ],
+    "answer": "Holi"
+  },
+  {
+    "id": 30,
+    "question": "Which is the largest democracy in the world?",
+    "options": [
+      "USA",
+      "Indonesia",
+      "India",
+      "Brazil"
+    ],
+    "answer": "India"
+  },
+  {
+    "id": 31,
+    "question": "Which Indian state is famous for backwaters?",
+    "options": [
+      "Goa",
+      "Kerala",
+      "Odisha",
+      "Assam"
+    ],
+    "answer": "Kerala"
+  },
+  {
+    "id": 32,
+    "question": "What is the national tree of India?",
+    "options": [
+      "Mango",
+      "Neem",
+      "Banyan",
+      "Coconut"
+    ],
+    "answer": "Banyan"
+  },
+  {
+    "id": 33,
+    "question": "Which city hosts the Gateway of India?",
+    "options": [
+      "Delhi",
+      "Kolkata",
+      "Mumbai",
+      "Chennai"
+    ],
+    "answer": "Mumbai"
+  },
+  {
+    "id": 34,
+    "question": "Which Indian state produces the most coffee?",
+    "options": [
+      "Kerala",
+      "Tamil Nadu",
+      "Karnataka",
+      "Andhra Pradesh"
+    ],
+    "answer": "Karnataka"
+  },
+  {
+    "id": 35,
+    "question": "Which Indian space agency launched Chandrayaan missions?",
+    "options": [
+      "NASA",
+      "DRDO",
+      "ISRO",
+      "ESA"
+    ],
+    "answer": "ISRO"
+  },
+  {
+    "id": 36,
+    "question": "Which is the longest river in India?",
+    "options": [
+      "Yamuna",
+      "Godavari",
+      "Ganga",
+      "Brahmaputra"
+    ],
+    "answer": "Ganga"
+  },
+  {
+    "id": 37,
+    "question": "Which Indian state is famous for Bihu festival?",
+    "options": [
+      "Assam",
+      "Gujarat",
+      "Punjab",
+      "Bihar"
+    ],
+    "answer": "Assam"
+  },
+  {
+    "id": 38,
+    "question": "Which Indian city is called the City of Lakes?",
+    "options": [
+      "Udaipur",
+      "Jaipur",
+      "Surat",
+      "Mysuru"
+    ],
+    "answer": "Udaipur"
+  },
+  {
+    "id": 39,
+    "question": "Who is known as the Missile Man of India?",
+    "options": [
+      "Vikram Sarabhai",
+      "Homi Bhabha",
+      "A. P. J. Abdul Kalam",
+      "Satish Dhawan"
+    ],
+    "answer": "A. P. J. Abdul Kalam"
+  },
+  {
+    "id": 40,
+    "question": "Which is the national song of India?",
+    "options": [
+      "Jana Gana Mana",
+      "Sare Jahan Se Achha",
+      "Vande Mataram",
+      "Ae Mere Watan Ke Logon"
+    ],
+    "answer": "Vande Mataram"
+  },
+  {
+    "id": 41,
+    "question": "Which state is famous for the Sun Temple at Konark?",
+    "options": [
+      "Odisha",
+      "Gujarat",
+      "Maharashtra",
+      "Tamil Nadu"
+    ],
+    "answer": "Odisha"
+  },
+  {
+    "id": 42,
+    "question": "Which Indian state shares the longest international border?",
+    "options": [
+      "Rajasthan",
+      "Punjab",
+      "West Bengal",
+      "Jammu and Kashmir"
+    ],
+    "answer": "West Bengal"
+  },
+  {
+    "id": 43,
+    "question": "Which Indian city is known as the City of Joy?",
+    "options": [
+      "Delhi",
+      "Kolkata",
+      "Chennai",
+      "Lucknow"
+    ],
+    "answer": "Kolkata"
+  },
+  {
+    "id": 44,
+    "question": "Which is the highest mountain peak in India?",
+    "options": [
+      "Kanchenjunga",
+      "Nanda Devi",
+      "Everest",
+      "Annapurna"
+    ],
+    "answer": "Kanchenjunga"
+  },
+  {
+    "id": 45,
+    "question": "Which Indian leader is called the Iron Man of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Lal Bahadur Shastri",
+      "Sardar Vallabhbhai Patel",
+      "Bhagat Singh"
+    ],
+    "answer": "Sardar Vallabhbhai Patel"
+  },
+  {
+    "id": 46,
+    "question": "Which Indian state is famous for the Hornbill Festival?",
+    "options": [
+      "Manipur",
+      "Mizoram",
+      "Nagaland",
+      "Meghalaya"
+    ],
+    "answer": "Nagaland"
+  },
+  {
+    "id": 47,
+    "question": "Which Indian dance form originated in Tamil Nadu?",
+    "options": [
+      "Kathak",
+      "Bharatanatyam",
+      "Manipuri",
+      "Odissi"
+    ],
+    "answer": "Bharatanatyam"
+  },
+  {
+    "id": 48,
+    "question": "Which Indian state is known for the Gir National Park?",
+    "options": [
+      "Rajasthan",
+      "Gujarat",
+      "Madhya Pradesh",
+      "Maharashtra"
+    ],
+    "answer": "Gujarat"
+  },
+  {
+    "id": 49,
+    "question": "Which Indian leader gave the slogan “Jai Jawan Jai Kisan”?",
+    "options": [
+      "Indira Gandhi",
+      "Lal Bahadur Shastri",
+      "Mahatma Gandhi",
+      "Rajiv Gandhi"
+    ],
+    "answer": "Lal Bahadur Shastri"
+  },
+  {
+    "id": 50,
+    "question": "Which is the official national calendar of India?",
+    "options": [
+      "Gregorian Calendar",
+      "Vikram Samvat",
+      "Saka Calendar",
+      "Lunar Calendar"
+    ],
+    "answer": "Saka Calendar"
+  }
+]
