@@ -158,7 +158,7 @@ def ask_openai(question_text):
 
     from openai import OpenAI
 
-    client = OpenAI(base_url=, api_key=OPENAI_API_KEY)
+    client = OpenAI(base_url=OPENAI_API_KEY , api_key=OPENAI_API_KEY)
 
     response = client.chat.completions.create(
         model=OLLAMA_MODEL,
